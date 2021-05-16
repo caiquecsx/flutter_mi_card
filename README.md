@@ -1,5 +1,5 @@
 # Mi Card
 
-Simple project from my flutter studies.
+A simple project from my flutter studies.
 
-<!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
+<img src="https://raw.githubusercontent.com/caiquecsx/flutter_mi_card/main/images/mi_card.png" width="300">
